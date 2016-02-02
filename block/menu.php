@@ -6,8 +6,10 @@ elseif($url == "/portfolio.php")
 {$url2 = "active";}
 elseif($url == "/services.php")
 {$url3 = "active";}
-elseif($url == "/contact.php")
+elseif($url == "/faq.php")
 {$url4 = "active";}
+elseif($url == "/contact.php")
+{$url5 = "active";}
 else
 {$index = "active";}
 ?>
@@ -33,7 +35,8 @@ else
             <li class="<?=$url1?>" ><a href="/portfolio-single.php">О нас</a></li>
             <li class="<?=$url2?>" ><a href="/portfolio.php">Портфолио</a></li>
             <li class="<?=$url3?>" ><a href="/services.php">Услуги</a></li>
-            <li class="<?=$url4?>" ><a href="/contact.php">Контакты</a></li>
+            <li class="<?=$url4?>" ><a href="/faq.php">Продукция</a></li>
+            <li class="<?=$url5?>" ><a href="/contact.php">Контакты</a></li>
         </ul>
     </div><!-- end nav-menu -->
 </nav><!-- primary-navigation -->

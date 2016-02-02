@@ -45,15 +45,15 @@
 		    	<div class="item active">
 		      		<img src="images/content/slider-03.png" alt="">
 		      		<div class="carousel-caption">
-		      			<h3>Your Trust is Our Foundation to Build</h3>
-		      			<a href="#" class="btn btn-sm btn-default">VIEW OUR PORTFOLIO <i class="fa fa-fw fa-long-arrow-right"></i></a>
+		      			<h3>Профессиональная команда</h3>
+		      			<a href="#" class="btn btn-sm btn-default">ПОСМОТРЕТЬ ПОРТФОЛИО <i class="fa fa-fw fa-long-arrow-right"></i></a>
 		      		</div>
 		    	</div>
 
 			    <div class="item">
 			      	<img src="images/content/slider-02.png" alt="">
 			      	<div class="carousel-caption">
-			      		<h3>Mazim Placerat Facer Possim Assum</h3>
+			      		<h3>Эксплуатация и техническое обслуживание</h3>
 			      		<a href="#" class="btn btn-sm btn-default">LEARN MORE <i class="fa fa-fw fa-long-arrow-right"></i></a>
 			      	</div>
 			    </div>
@@ -82,7 +82,7 @@
 							<i class="fa fa-fw fa-group"></i>
 						</span>
 						<div class="small-icon-text">
-							<h4>Professional Team</h4>
+							<h4>Профессиональная команда</h4>
 							<p>Claritas est etiam processus dynamic, qui sequitur mutationem consetudium lectorum.</p>
 						</div><!-- end text -->
 					</div><!-- end column -->
@@ -92,7 +92,7 @@
 							<i class="fa fa-fw fa-gears"></i>
 						</span>
 						<div class="small-icon-text">
-							<h4>Operation &amp; Maintenance</h4>
+							<h4>Эксплуатация и техническое обслуживание</h4>
 							<p>Claritas est etiam processus dynamic, qui sequitur mutationem consetudium lectorum.</p>
 						</div><!-- end text -->
 					</div><!-- end column -->
@@ -102,7 +102,7 @@
 							<i class="fa fa-fw fa-clipboard"></i>
 						</span>
 						<div class="small-icon-text">
-							<h4>Project Control</h4>
+							<h4>Управление проектами</h4>
 							<p>Claritas est etiam processus dynamic, qui sequitur mutationem consetudium lectorum.</p>
 						</div><!-- end text -->
 					</div><!-- end column -->
