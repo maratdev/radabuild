@@ -1,17 +1,21 @@
 <?
 $url = $_SERVER['REQUEST_URI'];
-if($url == "/portfolio-single.php")
+
+if($url == "/index.php")
+{$url0 = "active";}
+elseif($url == "/portfolio-single.php")
 {$url1 = "active";}
 elseif($url == "/portfolio.php")
 {$url2 = "active";}
 elseif($url == "/services.php")
 {$url3 = "active";}
-elseif($url == "/faq.php")
+elseif($url == "/production.php")
+{$url4 = "active";}
+elseif($url == "/production_view.php")
 {$url4 = "active";}
 elseif($url == "/contact.php")
 {$url5 = "active";}
-else
-{$index = "active";}
+
 ?>
 
 
@@ -31,11 +35,11 @@ else
 <nav id="primary-navigation" class="site-navigation navbar-collapse collapse" role="navigation">
     <div class="nav-menu">
         <ul class="menu">
-            <li class="<?=$index?>" ><a href="/index.php">Главная</a></li>
+            <li class="<?=$url0?>" ><a href="/index.php">Главная</a></li>
             <li class="<?=$url1?>" ><a href="/portfolio-single.php">О нас</a></li>
             <li class="<?=$url2?>" ><a href="/portfolio.php">Портфолио</a></li>
             <li class="<?=$url3?>" ><a href="/services.php">Услуги</a></li>
-            <li class="<?=$url4?>" ><a href="/faq.php">Продукция</a></li>
+            <li class="<?=$url4?>" ><a href="/production.php">Продукция</a></li>
             <li class="<?=$url5?>" ><a href="/contact.php">Контакты</a></li>
         </ul>
     </div><!-- end nav-menu -->

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -54,14 +54,14 @@
 			      	<img src="images/content/slider-02.png" alt="">
 			      	<div class="carousel-caption">
 			      		<h3>Эксплуатация и техническое обслуживание</h3>
-			      		<a href="#" class="btn btn-sm btn-default">LEARN MORE <i class="fa fa-fw fa-long-arrow-right"></i></a>
+			      		<a href="#" class="btn btn-sm btn-default">ПОДРОБНЕЕ <i class="fa fa-fw fa-long-arrow-right"></i></a>
 			      	</div>
 			    </div>
 			    <div class="item">
 			      	<img src="images/content/slider-03.png" alt="">
 			      	<div class="carousel-caption">
-			      		<h3>Typi Non Habent Claritatem Insitam</h3>
-			      		<a href="#" class="btn btn-sm btn-default">LEARN MORE <i class="fa fa-fw fa-long-arrow-right"></i></a>
+			      		<h3>Управление проектами</h3>
+			      		<a href="#" class="btn btn-sm btn-default">ПОДРОБНЕЕ <i class="fa fa-fw fa-long-arrow-right"></i></a>
 			      	</div>
 			    </div>
 			</div><!-- end carousel inner -->
@@ -114,10 +114,10 @@
 			<div class="container">
 				<div class="row">
 					<div class="about-text">
-						<h3 class="home-title">Who We Are</h3>
+						<h3 class="home-title">Кто мы?</h3>
 						<p class="trigger animated fadeInUp">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te
 						feugait nulla facilisi.</p>
-						<p><a href="#" class="btn btn-default">Learn More</a></p>
+						<p><a href="#" class="btn btn-default">Подробнее</a></p>
 					</div><!-- end column -->
 					<div class="about-figure">
 						<figure>
@@ -133,11 +133,11 @@
 
 					<div id="filter">
 						<ul id="options">
-							<li><a data-filter="*" href="#" class="selected">All Projects</a></li>
-							<li><a data-filter=".building" href="#">Building</a></li>
-							<li><a data-filter=".interior" href="#">Interior Design</a></li>
-							<li><a data-filter=".commercial" href="#">Commercial</a></li>
-							<li><a data-filter=".residential" href="#">Residential</a></li>
+							<li><a data-filter="*" href="#" class="selected">Все проекты</a></li>
+							<li><a data-filter=".building" href="#">Строительство</a></li>
+							<li><a data-filter=".interior" href="#">Дизайн</a></li>
+							<li><a data-filter=".commercial" href="#">Коммерчиские проекты</a></li>
+							<li><a data-filter=".residential" href="#">Резиденции</a></li>
 						</ul>
 					</div><!-- end #filter -->
 					<div id="foliowrap">
@@ -194,7 +194,7 @@
 
 					<div class="contact-hero">
 						<div class="pull-left">
-							<p>Claritas est etiam processus dynamicus ?</p>
+							<p>Понравились проекты ?</p>
 						</div>
 						<div class="pull-right">
 							<a href="#" class="btn btn-lg btn-default">Get a Quote</a>
@@ -205,76 +205,7 @@
 			</div>
 		</section><!-- end portfolio -->
 
-		<section class="bloghome">
-			<div class="container">
-				<div class="row">
-					<h3 class="home-title">Latest News</h3>
-
-					<div class="col-sm-4">
-						<div class="inner">
-							<figure class="w-thumb">
-								<img src="images/content/post-01.png" alt="">
-							</figure>
-							<div class="entry-header">
-								<time class="published" datetime="2014-12-13" title="December 13, 2014 - 21:12 pm">December 13, 2014</time>
-								<h2 class="post-title entry-title">
-									<a href="#">Claritas Est Etiam Processus Dynamicus</a>
-								</h2>
-							</div><!-- end entry-header -->
-							<div class="entry-content">
-								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibhona euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-								<p>
-									<a href="#" class="more">Read More</a>
-								</p>
-							</div><!-- entry-content -->
-						</div><!-- end inner -->
-					</div><!-- end column -->
-
-					<div class="col-sm-4">
-						<div class="inner">
-							<figure class="w-thumb">
-								<img src="images/content/post-02.png" alt="">
-							</figure>
-							<div class="entry-header">
-								<time class="published" datetime="2014-12-13" title="December 13, 2014 - 21:12 pm">December 13, 2014</time>
-								<h2 class="post-title entry-title">
-									<a href="#">Investigationes Demonstraverunt Lectores</a>
-								</h2>
-							</div><!-- end entry-header -->
-							<div class="entry-content">
-								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibhona euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-								<p>
-									<a href="#" class="more">Read More</a>
-								</p>
-							</div><!-- entry-content -->
-						</div><!-- end inner -->
-					</div><!-- end column -->
-
-					<div class="col-sm-4">
-						<div class="inner">
-							<figure class="w-thumb">
-								<img src="images/content/post-03.png" alt="">
-							</figure>
-							<div class="entry-header">
-								<time class="published" datetime="2014-12-13" title="December 13, 2014 - 21:12 pm">December 13, 2014</time>
-								<h2 class="post-title entry-title">
-									<a href="#">Consuetudium Lectorum Mirum Est Notare quam</a>
-								</h2>
-							</div><!-- end entry-header -->
-							<div class="entry-content">
-								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibhona euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-								<p>
-									<a href="#" class="more">Read More</a>
-								</p>
-							</div><!-- entry-content -->
-						</div><!-- end inner -->
-					</div><!-- end column -->
-
-				</div><!-- end row -->
-			</div>
-		</section><!-- end blog -->
-
-		<div class="testimonial">
+	  <div class="testimonial">
 			<div class="container">
 				<div class="row">
 					<div id="testimonial-home" class="carousel slide">
@@ -339,7 +270,7 @@
 		<section class="partner">
 			<div class="container">
 				<div class="row">
-					<h3 class="home-title">Our Partner</h3>
+					<h3 class="home-title">Наши партнеры</h3>
 					<div class="inner">
 						<div class="col-partner">
 							<div>
@@ -396,107 +327,8 @@
 				</div>
 			</div>
 		</section><!-- end partner -->
+	  <?php include_once("block/footer.php"); ?>
 
-		<footer id="footer-section" class="site-footer">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4">
-						<div class="widget">
-							<div class="widget-inner">
-								<h3 class="widget-title">About Us</h3>
-								<p>
-									<img src="images/content/logo-light.png" alt="">
-								</p>
-								<p>Lusioto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>
-								<p><a href="#" class="more">Learn More</a></p>
-							</div><!-- end inner -->
-						</div><!-- end widget -->
-					</div>
-
-					<div class="col-md-4">
-						<div class="widget">
-							<div class="widget-inner">
-								<h3 class="widget-title">Office Address</h3>
-								<p>Our Office Address :</p>
-								<table>
-									<tr>
-										<td><strong>Location</strong></td>
-										<td> : Kaliurang St. No 104, Sinduharjo, <br/>&nbsp;&nbsp;Ngaglik, Sleman.</td>
-									</tr>
-									<tr>
-										<td><strong>Telp</strong></td>
-										<td> : (0274) 9982732</td>
-									</tr>
-									<tr>
-										<td><strong>Email</strong></td>
-										<td> : <a href="mailto:staff@localhost.net">staff@localhost.net</a></td>
-									</tr>
-									<tr>
-										<td><strong>Open Hour</strong></td>
-										<td> : Monday &dash; Friday <br/> &nbsp;&nbsp;08:00 AM &dash; 16:00 PM</td>
-									</tr>
-								</table>
-							</div><!-- end inner -->
-						</div><!-- end widget -->
-					</div>
-
-					<div class="col-md-4">
-						<div class="widget">
-							<div class="widget-inner">
-								<h3 class="widget-title">Photos On Flickr</h3>
-								<ul class="list-galleries">
-									<li>
-										<a href="#"><img src="images/content/gal-01.png" alt=""></a>
-									</li>
-									<li>
-										<a href="#"><img src="images/content/gal-02.png" alt=""></a>
-									</li>
-									<li>
-										<a href="#"><img src="images/content/gal-03.png" alt=""></a>
-									</li>
-									<li>
-										<a href="#"><img src="images/content/gal-04.png" alt=""></a>
-									</li>
-									<li>
-										<a href="#"><img src="images/content/gal-05.png" alt=""></a>
-									</li>
-									<li>
-										<a href="#"><img src="images/content/gal-06.png" alt=""></a>
-									</li>
-								</ul>
-							</div><!-- end inner -->
-						</div><!-- end widget -->
-					</div>
-				</div>
-			</div>
-		</footer>
-
-		<div class="footer-credit">
-			<ul class="list-socmed">
-				<li>
-					<a href="#"><i class="fa fa-fw fa-facebook"></i></a>
-				</li>
-				<li>
-					<a href="#"><i class="fa fa-fw fa-twitter"></i></a>
-				</li>
-				<li>
-					<a href="#"><i class="fa fa-fw fa-linkedin"></i></a>
-				</li>
-				<li>
-					<a href="#"><i class="fa fa-fw fa-instagram"></i></a>
-				</li>
-				<li>
-					<a href="#"><i class="fa fa-fw fa-youtube"></i></a>
-				</li>
-				<li>
-					<a href="#"><i class="fa fa-fw fa-pinterest"></i></a>
-				</li>
-				<li>
-					<a href="#"><i class="fa fa-fw fa-google-plus"></i></a>
-				</li>
-			</ul>
-			<p class="copy">COPYRIGHT &copy; 2104 BATAKOO. WEB DESIGN BY <a href="http://mattsapii.co/">MATTSAPII</a></p>
-		</div><!-- end footer-credit -->
     	
     </div><!-- end #page hfeed site -->
 
@@ -504,7 +336,7 @@
     <script src="js/vendor/jquery-1.11.1.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/plugin.js"></script>
-    <script src="js/main.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/plugin.js"></script>
   </body>
 </html>
