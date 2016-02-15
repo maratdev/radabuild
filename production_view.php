@@ -9,6 +9,7 @@ $myrow = mysql_fetch_array($result);
   <head>
 	  <!--Created by DonKing
          Base template (without user's data) checked by http://s-dt.ru-->
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
 	  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	  <meta name="author" lang="ru" content="s-dt.ru"/>
 	  <meta name="copyright" content="&copy; DTStudio <?php echo date("Y"); ?> "/>
