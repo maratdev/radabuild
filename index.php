@@ -24,9 +24,7 @@
     			<div class="container-fluid">
     				<div class="row">
 						<?php include_once("block/menu.php"); ?>
-						<div class="header-feature">
-    						<a href="contact.html" class="btn btn-lg btn-default">Get a Quote</a>
-    					</div><!-- end header-feature -->
+
     				</div><!-- end row -->
     			</div><!-- end container-fluid -->
     		</div><!-- end header-navigation -->
@@ -43,7 +41,7 @@
 		  	<!-- Wrapper for slides -->
 		  	<div class="carousel-inner">
 		    	<div class="item active">
-		      		<img src="images/content/slider-03.png" alt="">
+		      		<img src="images/content/slider-01.jpg" alt="">
 		      		<div class="carousel-caption">
 		      			<h3>Профессиональная команда</h3>
 		      			<a href="#" class="btn btn-sm btn-default">ПОСМОТРЕТЬ ПОРТФОЛИО <i class="fa fa-fw fa-long-arrow-right"></i></a>
@@ -115,8 +113,15 @@
 				<div class="row">
 					<div class="about-text">
 						<h3 class="home-title">Кто мы?</h3>
-						<p class="trigger animated fadeInUp">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te
-						feugait nulla facilisi.</p>
+						<p class="trigger animated fadeInUp"> Компания «RADA Build» занимается комплектацией строительных объектов.
+							На сегодняшний день мы имеем:
+							Отличную репутацию
+							Большой ассортимент товаров
+							Широкий круг надежных поставщиков
+							Конкурентоспособные цены и высокое качество товаров и услуг
+							Возможность работать оперативно, экономя время и трудозатраты
+							Мы обеспечиваем комплексное  снабжение строительных объектов  «на удалении».
+								</p>
 						<p><a href="#" class="btn btn-default">Подробнее</a></p>
 					</div><!-- end column -->
 					<div class="about-figure">
@@ -136,7 +141,7 @@
 							<li><a data-filter="*" href="#" class="selected">Все проекты</a></li>
 							<li><a data-filter=".building" href="#">Строительство</a></li>
 							<li><a data-filter=".interior" href="#">Дизайн</a></li>
-							<li><a data-filter=".commercial" href="#">Коммерчиские проекты</a></li>
+							<li><a data-filter=".commercial" href="#">Коммерческие проекты</a></li>
 							<li><a data-filter=".residential" href="#">Резиденции</a></li>
 						</ul>
 					</div><!-- end #filter -->
@@ -197,7 +202,7 @@
 							<p>Понравились проекты ?</p>
 						</div>
 						<div class="pull-right">
-							<a href="#" class="btn btn-lg btn-default">Get a Quote</a>
+							<a href="#" class="btn btn-lg btn-default">Связаться</a>
 						</div>
 					</div><!-- end contact-hero -->
 

@@ -36,9 +36,6 @@ $myrow = mysql_fetch_array($result);
     			<div class="container-fluid">
     				<div class="row">
 						<?php include_once("block/menu.php"); ?>
-						<div class="header-feature">
-    						<a href="06_contact.html" class="btn btn-lg btn-default">8 961 323 39 48</a>
-    					</div><!-- end header-feature -->
     				</div><!-- end row -->
     			</div><!-- end container-fluid -->
     		</div><!-- end header-navigation -->

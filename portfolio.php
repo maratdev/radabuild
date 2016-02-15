@@ -27,10 +27,7 @@
     			<div class="container-fluid">
     				<div class="row">
 						<?php include_once("block/menu.php"); ?>
-						<div class="header-feature">
-    						<a href="06_contact.html" class="btn btn-lg btn-default">Get a Quote</a>
-    					</div><!-- end header-feature -->
-    				</div><!-- end row -->
+					</div><!-- end row -->
     			</div><!-- end container-fluid -->
     		</div><!-- end header-navigation -->
     	</header><!-- end #masthead -->
@@ -38,7 +35,7 @@
     	<div class="head-title">
     		<div class="container">
     			<div class="row">
-    				<h2 class="page-title">PORTFOLIO</h2>
+    				<h2 class="page-title">ПОРТФОЛИО</h2>
     				<p class="title-desc">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum</p>
     			</div><!-- end row -->
     		</div><!-- end container -->
@@ -52,11 +49,11 @@
 
 						<div id="filter">
 							<ul id="options">
-								<li><a data-filter="*" href="#" class="selected">All Projects</a></li>
-								<li><a data-filter=".building" href="#">Building</a></li>
-								<li><a data-filter=".interior" href="#">Interior Design</a></li>
-								<li><a data-filter=".commercial" href="#">Commercial</a></li>
-								<li><a data-filter=".residential" href="#">Residential</a></li>
+								<li><a data-filter="*" href="#" class="selected">Все проекты</a></li>
+								<li><a data-filter=".building" href="#">Строительство</a></li>
+								<li><a data-filter=".interior" href="#">Дизайн</a></li>
+								<li><a data-filter=".commercial" href="#">Коммерческие проекты</a></li>
+								<li><a data-filter=".residential" href="#">Резиденции</a></li>
 							</ul>
 						</div><!-- end #filter -->
 

@@ -6542,6 +6542,7 @@ img {
 .widget p {
   font-family: "PT Serif", "Times New Roman", Times, serif;
   color: #878787;
+  text-align: center;
 }
 .widget table {
   font-family: "PT Serif", "Times New Roman", Times, serif;
@@ -6549,12 +6550,13 @@ img {
 }
 .widget table td {
   vertical-align: top;
+  margin: 0 auto;
 }
 .widget-inner {
   padding: 0 15px;
 }
 .widget-title {
-  text-align: left;
+  text-align: center;
   margin-bottom: 30px;
   border-bottom: 1px solid #ededed;
   padding-bottom: 25px;

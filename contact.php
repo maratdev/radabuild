@@ -26,13 +26,8 @@
     		<div class="header-navigation">
     			<div class="container-fluid">
     				<div class="row">
-
 						<?php include_once("block/menu.php"); ?>
-
-    					<div class="header-feature">
-    						<a href="06_contact.html" class="btn btn-lg btn-default">Get a Quote</a>
-    					</div><!-- end header-feature -->
-    				</div><!-- end row -->
+					</div><!-- end row -->
     			</div><!-- end container-fluid -->
     		</div><!-- end header-navigation -->
     	</header><!-- end #masthead -->
@@ -40,7 +35,7 @@
     	<div class="head-title">
     		<div class="container">
     			<div class="row">
-    				<h2 class="page-title">CONTACT US</h2>
+    				<h2 class="page-title">НАШИ КОНТАКТЫ</h2>
     				<p class="title-desc">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum</p>
     			</div><!-- end row -->
     		</div><!-- end container -->
@@ -49,8 +44,7 @@
 		<div id="main">
 			<div class="container">
 				<div class="row">
-
-					<div class="content-area col-md-8" id="primary">
+					<div class="content-area col-md-12" id="primary">
 						<div class="site-content" id="content">
 
 							<article class="post hentry">
@@ -80,14 +74,14 @@
 									<div class="row">
 										<div class="col-md-6">
 											<p>
-												<strong>OUR OFFICE ADDRESS I :</strong><br/>
-												Location : Kaliurang St. No 104, Sinduharjo, Ngaglik, Sleman<br/>Telephone : (0274) 9982732<br/>Email : Staff@localhost.net
+												<strong>АДРЕС ОФИСА I :</strong><br/>
+												Расположение : Республика Дагестан	:   г. Махачкала, ул. Гамидова 18ж 7 этаж<br/>Телефон : 8 (961) 323 39 48<br/>Email : <a href="inforada@inbox.ru">inforada@inbox.ru</a>
 											</p>
 										</div>
 										<div class="col-md-6">
 											<p>
-												<strong>OUR OFFICE ADDRESS I :</strong><br/>
-												Location : Kaliurang St. No 104, Sinduharjo, Ngaglik, Sleman<br/>Telephone : (0274) 9982732<br/>Email : Staff@localhost.net
+												<strong>АДРЕС ОФИСА II :</strong><br/>
+												Расположение : Республика Дагестан	:   г. Махачкала, ул. Гамидова 18ж 7 этаж<br/>Телефон : 8 (961) 323 39 48<br/>Email : <a href="inforada@inbox.ru">inforada@inbox.ru</a>
 											</p>
 										</div>
 									</div><!-- end row -->
@@ -97,30 +91,30 @@
 
 							<div class="comment-outer">
 								<div id="respond" class="comment-respond">
-									<h2 id="reply-title" class="comment-reply-title">Send a Message</h2>
+									<h2 id="reply-title" class="comment-reply-title">Напише сообщение</h2>
 									<form class="comment-form">
-										<p class="comment-notes">Your email address will not be published. All fields are required.</p>
+										<p class="comment-notes">Ваш электронный адрес не будет опубликован. Все поля обязательны к заполнению.</p>
 										<p class="comment-form-email">
-											<label for="author">Name</label>
+											<label for="author">Ваше имя</label>
 											<span class="required">*</span>
 											<input id="author" type="text" class="input-text" name="author">
 										</p>
 										<p class="comment-form-author">
-											<label for="email">Email</label>
+											<label for="email">Ваш Email</label>
 											<span class="required">*</span>
 											<input id="email" type="text" class="input-text" name="author">
 										</p>
 										<p class="comment-form-url">
-											<label for="subject">Subject</label>
+											<label for="subject">Тема сообщения</label>
 											<span class="required">*</span>
 											<input id="subject" type="text" class="input-text" name="author">
 										</p>
 										<p class="comment-form-comment">
-											<label for="message">Message</label>
+											<label for="message">Ваше сообщение</label>
 											<textarea name="message" id="message" cols="45" rows="10" class="input-text"></textarea>
 										</p>
 										<p class="form-submit">
-											<input class="btn btn-md btn-default" name="submit" type="submit" id="button" value="Send Message">
+											<input class="btn btn-md btn-default" name="submit" type="submit" id="button" value="Отправить">
 										</p>
 									</form><!-- end #comment-form -->
 								</div><!-- end comment-respond -->
@@ -130,166 +124,6 @@
 						</div><!-- end site-content -->
 					</div><!-- end content-area -->
 
-					<aside id="secondary" class="col-md-4">
-						<div class="sidebar">
-
-							<div id="search-2" class="widget widget_search">
-								<h3 class="widget-title">Search</h3>
-								<div class="searchform">
-									<form>
-										<input type="text" class="txt" name="s" placeholder="Type Keywords">
-										<input type="submit" value="search" class="btn btn-sm">
-									</form>
-								</div><!-- end searchform -->
-							</div><!-- end search widget -->
-
-							<div class="widget post-type-widget">
-								<h3 class="widget-title">Recent Posts</h3>
-								<ul>
-									<li>
-										<span class="post-category">
-											<a href="#">Uncategorized</a>
-										</span>
-										<figure class="post-thumbnail">
-											<a href="#"><img src="images/content/thumb-01.png" alt=""></a>
-										</figure>
-										<h2 class="post-title">
-											<a href="#">Lorem Ipsum Dolor Sit Amet, Consetetuer Adipiscing Elit</a>
-										</h2>
-									</li>
-									<li>
-										<span class="post-category">
-											<a href="#">Building</a>
-										</span>
-										<figure class="post-thumbnail">
-											<a href="#"><img src="images/content/thumb-02.png" alt=""></a>
-										</figure>
-										<h2 class="post-title">
-											<a href="#">Euismod Tincidunt ut Laoreet Dolore Magna Aliquam</a>
-										</h2>
-									</li>
-									<li>
-										<span class="post-category">
-											<a href="#">Uncategorized</a>
-										</span>
-										<figure class="post-thumbnail">
-											<a href="#"><img src="images/content/thumb-03.png" alt=""></a>
-										</figure>
-										<h2 class="post-title">
-											<a href="#">Ullamcorper Suscipit Lobortis Nisl ut Aliquip Commodo Consequat</a>
-										</h2>
-									</li>
-									<li>
-										<span class="post-category">
-											<a href="#">Commercial</a>
-										</span>
-										<figure class="post-thumbnail">
-											<a href="#"><img src="images/content/thumb-04.png" alt=""></a>
-										</figure>
-										<h2 class="post-title">
-											<a href="#">Quod Mazim Placerat Facer Possim Assum</a>
-										</h2>
-									</li>
-									<li>
-										<span class="post-category">
-											<a href="#">Renovation</a>
-										</span>
-										<figure class="post-thumbnail">
-											<a href="#"><img src="images/content/thumb-05.png" alt=""></a>
-										</figure>
-										<h2 class="post-title">
-											<a href="#">Claritas est Etiam Processus Dynamicus</a>
-										</h2>
-									</li>
-								</ul>
-							</div><!-- end widget -->
-
-							<div class="widget">
-								<h3 class="widget-title">Popular Project</h3>
-								<div id="sidebar-carousel" class="carousel slide" data-ride="carousel">
-									<div class="carousel-inner">
-										<div class="item active">
-											<img src="images/content/side-01.png" alt="">
-											<div class="carousel-caption">
-												<div class="inner">
-													<h3><a href="#">Selaras Bhakti Villa</a></h3>
-												</div>
-											</div>
-										</div><!-- end item -->
-										<div class="item">
-											<img src="images/content/side-02.png" alt="">
-											<div class="carousel-caption">
-												<div class="inner">
-													<h3><a href="#">Green House Pavilion</a></h3>
-												</div>
-											</div>
-										</div>
-									</div><!-- end carousel-inner -->
-
-									<!-- Controls -->
-									<a class="left carousel-control" href="#sidebar-carousel" role="button" data-slide="prev">
-										<span class="fa fa-fw fa-chevron-left"></span>
-									</a>
-									<a class="right carousel-control" href="#sidebar-carousel" role="button" data-slide="next">
-									    <span class="fa fa-fw fa-chevron-right"></span>
-									</a>
-								</div><!-- end carousel -->
-							</div><!-- end widget -->
-
-							<div class="widget">
-								<h3 class="widget-title">News Categories</h3>
-								<ul>
-									<li>
-										<a class="pull-left" href="#">Building</a>
-										<span class="pull-right">17</span>
-									</li>
-									<li>
-										<a class="pull-left" href="#">Contractors</a>
-										<span class="pull-right">14</span>
-									</li>
-									<li>
-										<a class="pull-left" href="#">Uncategorized</a>
-										<span class="pull-right">10</span>
-									</li>
-									<li>
-										<a class="pull-left" href="#">Commercial</a>
-										<span class="pull-right">8</span>
-									</li>
-									<li>
-										<a class="pull-left" href="#">Renovation</a>
-										<span class="pull-right">6</span>
-									</li>
-									<li>
-										<a class="pull-left" href="#">Tools</a>
-										<span class="pull-right">4</span>
-									</li>
-								</ul>
-							</div><!-- end widget -->
-
-							<div class="widget">
-								<h3 class="widget-title">News Tags</h3>
-								<div class="tagcloud">
-									<a href="#">building</a>
-									<a href="#">contractors</a>
-									<a href="#">uncategorized</a>
-									<a href="#">renovation</a>
-									<a href="#">tools</a>
-									<a href="#">building</a>
-									<a href="#">contractors</a>
-									<a href="#">uncategorized</a>
-									<a href="#">renovation</a>
-									<a href="#">tools</a>
-								</div>
-							</div><!-- end widget -->
-
-							<div class="widget">
-								<h3 class="widget-title">Our Facebook Page</h3>
-								<iframe src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FFacebookDevelopers&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true"></iframe>
-							</div><!-- end widget -->
-
-
-						</div><!-- end sidebar -->
-					</aside><!-- end secondary -->
 
 				</div><!-- end row -->
 			</div>

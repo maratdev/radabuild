@@ -1,73 +1,34 @@
 <footer id="footer-section" class="site-footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-12">
                 <div class="widget">
                     <div class="widget-inner">
-                        <h3 class="widget-title">About Us</h3>
-                        <p>
-                            <img src="images/content/logo-light.png" alt="">
-                        </p>
-                        <p>Lusioto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>
-                        <p><a href="#" class="more">Learn More</a></p>
-                    </div><!-- end inner -->
-                </div><!-- end widget -->
-            </div>
-
-            <div class="col-md-4">
-                <div class="widget">
-                    <div class="widget-inner">
-                        <h3 class="widget-title">Office Address</h3>
-                        <p>Our Office Address :</p>
-                        <table>
+                        <h3 class="widget-title">Адреса офисов</h3>
+                        <p>Адрес Нашего Офиса :</p>
+                        <table align="center">
                             <tr>
-                                <td><strong>Location</strong></td>
-                                <td> : Kaliurang St. No 104, Sinduharjo, <br/>&nbsp;&nbsp;Ngaglik, Sleman.</td>
+                                <td><strong>Республика Дагестан</strong></td>
+                                <td> :  &nbsp;&nbsp;г. Махачкала, ул. Гамидова 18ж 7 этаж.</td>
                             </tr>
                             <tr>
-                                <td><strong>Telp</strong></td>
-                                <td> : (0274) 9982732</td>
+                                <td><strong>Телефон</strong></td>
+                                <td> : 8 (961) 323 39 48 </td>
                             </tr>
                             <tr>
                                 <td><strong>Email</strong></td>
-                                <td> : <a href="mailto:staff@localhost.net">staff@localhost.net</a></td>
+                                <td> : <a href="inforada@inbox.ru">inforada@inbox.ru</a></td>
                             </tr>
                             <tr>
-                                <td><strong>Open Hour</strong></td>
-                                <td> : Monday &dash; Friday <br/> &nbsp;&nbsp;08:00 AM &dash; 16:00 PM</td>
+                                <td><strong>Время работы</strong></td>
+                                <td> : &nbsp;&nbsp;08:00 AM &dash; 16:00 PM</td>
                             </tr>
                         </table>
                     </div><!-- end inner -->
                 </div><!-- end widget -->
             </div>
 
-            <div class="col-md-4">
-                <div class="widget">
-                    <div class="widget-inner">
-                        <h3 class="widget-title">Photos On Flickr</h3>
-                        <ul class="list-galleries">
-                            <li>
-                                <a href="#"><img src="images/content/gal-01.png" alt=""></a>
-                            </li>
-                            <li>
-                                <a href="#"><img src="images/content/gal-02.png" alt=""></a>
-                            </li>
-                            <li>
-                                <a href="#"><img src="images/content/gal-03.png" alt=""></a>
-                            </li>
-                            <li>
-                                <a href="#"><img src="images/content/gal-04.png" alt=""></a>
-                            </li>
-                            <li>
-                                <a href="#"><img src="images/content/gal-05.png" alt=""></a>
-                            </li>
-                            <li>
-                                <a href="#"><img src="images/content/gal-06.png" alt=""></a>
-                            </li>
-                        </ul>
-                    </div><!-- end inner -->
-                </div><!-- end widget -->
-            </div>
+
         </div>
     </div>
 </footer>

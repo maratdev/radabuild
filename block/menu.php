@@ -44,3 +44,6 @@ elseif($url == "/contact.php")
         </ul>
     </div><!-- end nav-menu -->
 </nav><!-- primary-navigation -->
+<div class="header-feature">
+    <a href="contact.html" class="btn btn-lg btn-default">8 (961) 323 39 48</a>
+</div><!-- end header-feature -->

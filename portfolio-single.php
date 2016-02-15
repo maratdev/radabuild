@@ -27,9 +27,6 @@
     			<div class="container-fluid">
     				<div class="row">
 						<?php include_once("block/menu.php"); ?>
-						<div class="header-feature">
-    						<a href="06_contact.html" class="btn btn-lg btn-default">Get a Quote</a>
-    					</div><!-- end header-feature -->
     				</div><!-- end row -->
     			</div><!-- end container-fluid -->
     		</div><!-- end header-navigation -->
@@ -56,26 +53,33 @@
 								<header class="entry-header">
 
 									<div class="entry-media">
-										<img src="images/content/port-01.png" alt="">
+										<img src="images/content/port-01.jpg" alt="">
 									</div><!-- end entry-media -->
 
 									<h1 class="entry-title">
-										<a href="#">Typi Non Habent Claritatem Insitam Est Usus Legentis in Qui Facit Eorum Claritatem</a>
+										<a href="#"> Компания «RADA Build» занимается комплектацией строительных объектов.</a>
 									</h1>
 
 								</header><!-- end entry-header -->
 
 								<div class="entry-content">
-									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem.</p>
-									<ul>
-										<li>Vulputate velit esse molestie</li>
-										<li>Typi non habent claritatem insitam</li>
-										<li>Vero eros et accumsan et iusto odio</li>
-										<li>Investigationes demonstraverunt lectores legere</li>
-										<li>Eleifend option congue nihil imperdiet</li>
-									</ul>
-									<p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.</p>
-								</div>
+									<p>
+										Основная цель нашей работы – это предоставить заказчику услуги по оснащению стройплощадок материалами. За последние годы все больше и больше в обиход входит подобный принцип работы, а именно – делегирование функций и обязанностей каких-либо отделов компании  поставщику услуг.
+										Благодаря большому выбору товаров мы можем удовлетворить любой запрос относительно класса материала, будь то стройматериалы бизнес - класса или эконом – товары для малобюджетного строительства.   Но мы не предложим вам супер дешевых материалов, то, что хорошо - не продается со скидкой в 30%. Мы привыкли гарантировать качество и нести ответственность за свою работу. Все  товары сертифицированы  и одобрены к продаже.
+										Что мы можем предложить своим заказчикам ?
+
+										1.Самый полный ассортимент стройматериалов и оборудования. У вас Вы можете заказать действительно многое для возведения объекта. Подчеркиваем, любого объекта. Сотрудничая с нами Вам больше не нужны отделы снабжения. Достаточно одного мененджера закрепленного за Вами который может работать сообща с вашим отделом.
+										<br><br>
+										2. Лучшие цены на материалы и оборудования То есть снабжение материалами и оборудованием мы производим по самым привлекательным для заказчика ценам. Мы можем себе это позволить! Во - первых , потомучто отлично, профессионально знаем рынок, как Российский так и Международный. А во - вторых , мы одновременно осуществляем комплексное снабжение нескольких строительных объектов одновременно . Поэтому приобретаем материалы и оборудование в большим оптом, что безусловно ведет к уменьшение их отпускной стоимости.
+										<br><br>
+										3. Надежность – начав сотрудничать с нашей компанией , Вы можете быть уверенны , что поставки будут производиться точно в соответствии с пунктами договора.
+										<br><br>
+										4. Форма оплаты и сотрудничества – любая. Снабжение строительных организаций мы производим на основе долгосрочного или единовременного договора.
+										<br><br>
+										Мы знаем особенности рынка, производителей, современные технологии строительства,  поддерживаем собственные складские запасы, минимизируем расходы на логистику, поэтому гарантируем желаемый результат! Звоните к нам , начните с нами работать и убедитесь сами.
+
+									</p>
+									</div>
 
 							</article><!-- end hentry -->
 
