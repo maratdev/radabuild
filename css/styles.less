@@ -6807,32 +6807,15 @@ img {
 .pricing-header {
   position: relative;
 }
-.pricing-header:before {
-  content: "";
-  position: absolute;
-  width: 80px;
-  height: 80px;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -ms-border-radius: 5px;
-  -o-border-radius: 5px;
-  border-radius: 5px;
-  -webkit-transform: rotate(45deg);
-  -moz-transform: rotate(45deg);
-  -ms-transform: rotate(45deg);
-  -o-transform: rotate(45deg);
-  transform: rotate(45deg);
-  background-color: #999;
-  display: block;
-  top: 45px;
-  left: 50%;
-  margin-left: -40px;
-  z-index: 0;
-}
+
 .pricing-header h3 {
   margin-top: 0;
   margin-bottom: 35px;
   font-size: 18px;
+  text-transform: uppercase;
+}
+.pricing-header img {
+width: 90%;
 }
 .pricing-header .cost {
   font-weight: 700;
@@ -6850,7 +6833,7 @@ img {
 }
 
 .pricing-body {
-  margin: 40px 0 30px;
+  margin: 0px 0 30px;
 }
 .pricing-body ul {
   padding: 0;
@@ -6859,6 +6842,14 @@ img {
 }
 .pricing-body ul li {
   padding: 20px 0;
+  a{
+    text-decoration: none;
+    border-bottom: 1px dotted #4a6f96;
+    color: #4a6f96;
+    &:hover{
+      border: none;
+    }
+  }
 }
 .pricing-body ul li:first-child {
   background-color: #f6f6f6;

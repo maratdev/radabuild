@@ -1,6 +1,6 @@
 <?
 include ("block/bd.php"); /*Соединяемся с базой*/
-$result = mysql_query("SELECT * FROM page WHERE id=1",$db);
+$result = mysql_query("SELECT * FROM page WHERE id=27",$db);
 $myrow = mysql_fetch_array($result);
 ?>
 <!DOCTYPE html>
@@ -8,6 +8,7 @@ $myrow = mysql_fetch_array($result);
   <head>
 	  <!--Created by DonKing
          Base template (without user's data) checked by http://s-dt.ru-->
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
 	  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	  <meta name="author" lang="ru" content="s-dt.ru"/>
 	  <meta name="copyright" content="&copy; DTStudio <?php echo date("Y"); ?> "/>
@@ -67,18 +68,10 @@ $myrow = mysql_fetch_array($result);
 							</div><!-- end search widget -->
 
 							<div class="widget post-type-widget">
-								<h3 class="widget-title">Все услуги</h3>
+								<h3 class="widget-title">Все категории</h3>
 								<ul>
 									<?
-									$result = mysql_query ("SELECT categories, id, title FROM page",$db);
-									$myrow = mysql_fetch_array ($result);
-									do {
-										printf ("
-									<li><span class='post-category'><a href='#'>%s</a></span>
-								<h2 class='post-title'><a href='production_view.php?id=%s'>%s </a></h2>
-									</li>",$myrow["categories"],$myrow["id"],$myrow["title"]);
-									}
-									while ($myrow = mysql_fetch_array ($result));
+									include ("block/left.php"); /*Соединяемся с базой*/
 									?>
 
 								</ul>

@@ -72,15 +72,7 @@ $myrow = mysql_fetch_array($result);
 								<h3 class="widget-title">Все услуги</h3>
 								<ul>
 									<?
-									$result = mysql_query ("SELECT categories, id, title FROM page",$db);
-									$myrow = mysql_fetch_array ($result);
-									do {
-										printf ("
-									<li><span class='post-category'><a href='#'>%s</a></span>
-										<h2 class='post-title'><a href='production_view.php?id=%s'>%s </a></h2>
-									</li>",$myrow["categories"],$myrow["id"],$myrow["title"]);
-									}
-									while ($myrow = mysql_fetch_array ($result));
+									include ("block/left.php"); /*Соединяемся с базой*/
 									?>
 								</ul>
 							</div><!-- end widget -->

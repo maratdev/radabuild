@@ -35,7 +35,7 @@
     	<div class="head-title">
     		<div class="container">
     			<div class="row">
-    				<h2 class="page-title">SERVICES</h2>
+    				<h2 class="page-title">УСЛУГИ</h2>
     				<p class="title-desc">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum</p>
     			</div><!-- end row -->
     		</div><!-- end container -->
